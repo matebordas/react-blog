@@ -1,0 +1,1 @@
+Very basic React blog application with Redux-form for learning purposes. No styling whatsoever.
